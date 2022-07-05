@@ -1,0 +1,15 @@
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/bin/Debug/net6.0/MethodsExercise2
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/bin/Debug/net6.0/MethodsExercise2.deps.json
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/bin/Debug/net6.0/MethodsExercise2.runtimeconfig.json
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/bin/Debug/net6.0/MethodsExercise2.dll
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/bin/Debug/net6.0/MethodsExercise2.pdb
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/obj/Debug/net6.0/MethodsExercise2.csproj.AssemblyReference.cache
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/obj/Debug/net6.0/MethodsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/obj/Debug/net6.0/MethodsExercise2.AssemblyInfoInputs.cache
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/obj/Debug/net6.0/MethodsExercise2.AssemblyInfo.cs
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/obj/Debug/net6.0/MethodsExercise2.csproj.CoreCompileInputs.cache
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/obj/Debug/net6.0/MethodsExercise2.dll
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/obj/Debug/net6.0/refint/MethodsExercise2.dll
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/obj/Debug/net6.0/MethodsExercise2.pdb
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/obj/Debug/net6.0/MethodsExercise2.genruntimeconfig.cache
+/Users/danielpellatt/Desktop/Repos/MethodsExercise2/MethodsExercise2/obj/Debug/net6.0/ref/MethodsExercise2.dll
